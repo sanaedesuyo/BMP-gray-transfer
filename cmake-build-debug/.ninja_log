@@ -1,0 +1,22 @@
+# ninja log v6
+20	2282	7555428240025987	CMakeFiles/homework.dir/main.cpp.obj	fdaf1bf850fbf253
+696	1947	7532891158260671	CMakeFiles/homework.dir/src/story.cpp.obj	d00712d83fd41118
+1457	2328	7555430642455229	D:/homework/build/homework.exe	fdbc57d99f6edd19
+474	2610	7532891156036874	CMakeFiles/homework.dir/src/reader.cpp.obj	d0e3784d6b03a1b
+301	2703	7532891154317558	CMakeFiles/homework.dir/src/explainer.cpp.obj	e1151b57069fda
+393	3159	7535604332553055	CMakeFiles/homework.dir/src/bmp_transfer.cpp.obj	a551d35ecce04977
+5	1457	7555430627933517	CMakeFiles/homework.dir/src/map_reader.cpp.obj	205ae1224803c998
+45	2333	7562078254665919	CMakeFiles/homework.dir/main.cpp.obj	fdaf1bf850fbf253
+566	2554	7562078259874149	CMakeFiles/homework.dir/src/bmp_processor.cpp.obj	daf800a6284e5116
+2563	4452	7562078279846825	D:/homework/build/homework.exe	6a59295139910e3b
+3	1238	7562091758644579	CMakeFiles/homework.dir/src/bmp_processor.cpp.obj	daf800a6284e5116
+1238	2072	7562091771004028	D:/homework/build/homework.exe	6a59295139910e3b
+23	1248	7562092999208616	CMakeFiles/homework.dir/src/bmp_processor.cpp.obj	daf800a6284e5116
+1248	2091	7562093011468709	D:/homework/build/homework.exe	6a59295139910e3b
+3	1112	7562102270648613	CMakeFiles/homework.dir/main.cpp.obj	fdaf1bf850fbf253
+251	1397	7562102273124510	CMakeFiles/homework.dir/src/bmp_processor.cpp.obj	daf800a6284e5116
+1397	2124	7562102284593107	D:/homework/build/homework.exe	6a59295139910e3b
+30	1314	7562114167087907	CMakeFiles/homework.dir/src/bmp_processor.cpp.obj	daf800a6284e5116
+1314	2142	7562114179947878	D:/homework/build/homework.exe	6a59295139910e3b
+105	2782	7564583851032376	CMakeFiles/homework.dir/main.cpp.obj	fdaf1bf850fbf253
+2783	4306	7564583877809226	D:/homework/build/homework.exe	6a59295139910e3b
